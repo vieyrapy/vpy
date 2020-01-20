@@ -142,7 +142,7 @@ a:hover, a:active {
 
 .main-menu li a:hover,
 .main-menu li.current-menu-item a {
-    color: #e7af59;
+    color: #013adf;
 }
 
 /*
@@ -165,7 +165,7 @@ a:hover, a:active {
 }
 
 .social-profiles ul li a:hover {
-    color: #e7af59;
+    color: #013adf;
 }
 
 .nav-bar-sep {
@@ -643,7 +643,7 @@ a:hover, a:active {
 }
 
 .blog-page .blog-content:hover {
-    background: #e7af59;
+    background: #013adf;
 }
 
 .blog-page .blog-content header {
@@ -704,7 +704,7 @@ a:hover, a:active {
 }
 
 .blog-page .blog-content footer li a {
-    color: #e7af59;
+    color: #013adf;
 }
 
 .blog-page .blog-content:hover .entry-content h3 a,
@@ -802,7 +802,7 @@ a:hover, a:active {
 .single-page .entry-header .post-meta a {
     display: inline-block;
     margin-right: 6px;
-    color: #e7af59;
+    color: #013adf;
 }
 
 .single-post .content-area h1,
@@ -985,7 +985,7 @@ a:hover, a:active {
     letter-spacing: 0.15rem;
     outline: none;
     cursor: pointer;
-    background: #e7af59;
+    background: #013adf;
 }
 
 /*
