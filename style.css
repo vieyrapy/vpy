@@ -68,6 +68,7 @@ a:hover, a:active {
 .site-title {
     margin: 0;
     text-align: center;
+
 }
 
 .site-navigation .site-title a {
@@ -278,7 +279,7 @@ a:hover, a:active {
     }
 
     .site-title {
-        padding: 28px 0 10px 0;
+        padding: 40px 0 20px 0;
     }
 
     .hamburger-menu .menu-icon,
