@@ -1088,9 +1088,15 @@ a:hover, a:active {
 .single-page .entry-header .byline .date-format a {
     color: #bfbfbf;
 }
-.terminos {
-    position: absolute;
-    left:100px;
-    
 
+.footer{
+    position: relative;
+}
+.info{
+    position: right;
+    left: 10px;
+}
+.icons{
+    width: 30px;
+    height: 30px;
 }
