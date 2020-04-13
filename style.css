@@ -1091,6 +1091,7 @@ a:hover, a:active {
 
 .footer{
     position: relative;
+    height: 50%;
 }
 .info{
     position: right;
@@ -1135,3 +1136,4 @@ a:hover, a:active {
   .container-image:hover .img {
     opacity: 0.3;
   }
+

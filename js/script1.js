@@ -31,8 +31,7 @@ listap.forEach((valor, key, _copiamapa) => {
 let template_js = `  <div class="container-image col-12 col-md-4 col-xl-3">
             			<img class="img" src="${valor._imagenProd}" height="300px" alt="...">
             			<div class="middle">
-                            <i class="fas fa-shopping-cart"></i>
-                             <button type="button" class="btn btn-primary" id="${valor._idProd}" onclick="agregar(${key})" >Carrito</button>
+                             <button type="button" style="background:none" class="btn btn-primary" id="${valor._idProd}" onclick="agregar(${key})" ><img class="icons" src="images/carrito.png"></button>
                                     <p>${valor._descripcionProd}</p>
                                     <li>${valor._precioProd}</li>
                         </div>
